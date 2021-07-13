@@ -1,0 +1,15 @@
+{
+  "name": "todo-hasa",
+  "version": "0.0.1",
+  "description": "todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meakle",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
